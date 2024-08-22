@@ -1,0 +1,13 @@
+h1{
+
+
+ text-align: center;
+ color: darkblue; 
+}
+.pred{
+    color: red; /*o atributo color insere cor dentro de um texto*/
+}
+
+.pgreen{
+    color: green;
+}
